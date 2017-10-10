@@ -8,6 +8,8 @@
 ### Implementation of a Sliding Window Protocol
 - Enhance understanding of the network protocol hierarchy, flow control and error control techniques by implementing a sliding window protocol in a simulated communication network system
 
+Refer to `CZ3006 Coursework Assignment 1.pdf` for more details.
+
 Programming Language Used: ``Java``
 
 ### Web Applications using JavaScript and PHP
