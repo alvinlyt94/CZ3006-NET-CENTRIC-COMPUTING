@@ -17,7 +17,7 @@ Programming Language Used: ``Java``
 
 Programming Languages Used: ``Javascript`` and ``PHP``
 
-## Knowledge Accquired includes: 
+## Knowledge Acquired includes: 
 
 **1. Introduction to Net-Centric Computing** 
 - Background and history of networking and the Internet, network reference models and architectures, example networks, and network-based applications
